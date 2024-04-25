@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/df107bfe-64e7-4b89-a9b0-cc1cfd22b8b7/resourceGroups/Confluentis-RG-01/providers/Microsoft.Web/sites/ReactJSWA",
+    "appService.deploySubpath": "build"
+}
